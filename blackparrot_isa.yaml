@@ -1,0 +1,6 @@
+hart_ids: [0]
+hart0:
+  ISA: RV64IMAFDCSUZicsr_Zifencei_Zba_Zbb_Zbc
+  physical_addr_sz: 40
+  User_Spec_Version: '2.2'
+  supported_xlen: [64]
